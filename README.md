@@ -43,3 +43,27 @@
 ~/src/garth2/garth2  $ cd ..
 ~/src/garth2         $ ./manage.py makemigrations
 ```
+
+```
+~/src/garth2  $ tree
+.
+├── garth2
+│   ├── apps.py
+│   ├── config
+│   │   ├── __init__.py
+│   │   ├── settings.py
+│   │   ├── urls.py
+│   │   └── wsgi.py
+│   ├── __init__.py
+│   ├── migrations
+│   │   ├── 0001_initial.py
+│   │   └── __init__.py
+│   └── models
+│       ├── __init__.py
+│       └── thingy.py
+├── manage.py
+├── README.md
+├── requirements.txt
+└── tests
+    └── __init__.py
+```
