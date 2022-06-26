@@ -1,2 +1,8 @@
+*.sqlite3
+
+# byte-compiled / optimized / DLL files
 __pycache__/
-db.sqlite3
+*.py[cod]
+
+# MacOS users
+.DS_Store
