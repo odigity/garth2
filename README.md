@@ -46,6 +46,12 @@
 ~/src/garth2         $ ./manage.py makemigrations
 ```
 
+### Also...
+
+- configured [django-debug-toolbar](https://pypi.org/project/django-debug-toolbar/)
+- configured [django-extensions](https://pypi.org/project/django-extensions/)
+- configured SQL logging as in https://neilwithdata.com/django-sql-logging
+
 ## Current State
 
 ```
