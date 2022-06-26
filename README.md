@@ -1,3 +1,5 @@
+## Changelog
+
 ```
 ~/src                $ django-admin startproject garth2
 ~/src                $ cd garth2
@@ -43,6 +45,8 @@
 ~/src/garth2/garth2  $ cd ..
 ~/src/garth2         $ ./manage.py makemigrations
 ```
+
+## Current State
 
 ```
 ~/src/garth2  $ tree
